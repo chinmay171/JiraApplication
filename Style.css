@@ -4,6 +4,7 @@
 body{
     margin: 0;
     padding: 0;
+    background-color:rgb(94, 117, 117);
 }
 
 .toolbox-cont{
@@ -24,7 +25,10 @@ body{
     display: flex;
     align-items: center;
     justify-content: space-around;
+    border-radius: 3rem;
 }
+
+
 
 .action-btn-cont{
     background-color: lightgoldenrodyellow;
@@ -34,38 +38,81 @@ body{
     display: flex;
     align-items: center;
     justify-content: space-around;
+    border-radius: 3rem;
 }
 
 .colour{
     background-color: beige;
     height: 3rem;
     width :7rem;
+    
 }
 
 .lightPink{
-    background-color: lightpink;
+    background-color: rgb(254, 153, 168);
+    border-radius: 4rem;
+}
+
+.lightPink:hover{
+    background-color: rgb(252, 107, 132);
 }
 
 .lightBlue{
-    background-color: lightblue;
+    background-color: rgb(149, 211, 231);
+    border-radius: 4rem;
+}
+
+.lightBlue:hover{
+    background-color: rgb(53, 186, 230);
 }
 
 .lightGreen{
-    background-color: lightgreen;
+    background-color: rgb(126, 235, 126);
+    border-radius: 4rem;
+}
+
+.lightGreen:hover{
+    background-color: rgb(52, 231, 52);
 }
 
 .black{
-    background-color: black;
+    background-color: rgb(123, 123, 123);
+    border-radius: 4rem;
+}
+
+.black:hover{
+    background-color: rgb(56, 56, 56);
 }
 
 .add-btn{
     font-size: 3rem;
 }
 
+.add-btn:hover{
+    font-size: 3.5rem
+    
+}
+
+/* .display-add-function{
+    background-color: aliceblue;
+    /* margin-top: 5rem; */
+    display: none;
+    width: 10rem;
+    font-size: 1rem;
+} */
+/* .add-btn:hover .display-add-function{
+    display: block;
+    float:initial
+    align-items: center;
+} */
+
 .delete-btn{
     font-size: 3rem;
 }
 
+.delete-btn:hover{
+    font-size: 3.5rem
+}
 .modal-cont{
     position: absolute;
     top : 35vh;
@@ -123,9 +170,10 @@ body{
 
 .ticket-cont{
 
-    background-color:rgb(242, 243, 156);
+    background-color:rgb(208, 209, 158);
     height: 18rem;
     width: 32rem;
+    border-radius: 1.25rem;
 }
 
 .ticket-color{
@@ -134,7 +182,7 @@ body{
 }
 
 .ticket-id{
-    background-color:rgb(242, 243, 156);
+    background-color:rgb(208, 209, 158);
     /* margin-bottom: 0.25rem; */
     height: 1.5rem;
     padding: 0.5rem;
