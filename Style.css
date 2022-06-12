@@ -4,10 +4,11 @@
 body{
     margin: 0;
     padding: 0;
+    background-color:rgb(94, 117, 117);
 }
 
 .toolbox-cont{
-    background-color: black;
+    background-color: rgb(36, 35, 35);
     height: 10rem;
     width: 100%;
     position: fixed;
@@ -24,7 +25,10 @@ body{
     display: flex;
     align-items: center;
     justify-content: space-around;
+    border-radius: 3rem;
 }
+
+
 
 .action-btn-cont{
     background-color: lightgoldenrodyellow;
@@ -34,59 +38,104 @@ body{
     display: flex;
     align-items: center;
     justify-content: space-around;
+    border-radius: 3rem;
 }
 
 .colour{
     background-color: beige;
     height: 3rem;
     width :7rem;
+    
 }
 
 .lightPink{
-    background-color: lightpink;
+    background-color: rgb(254, 153, 168);
+    border-radius: 4rem;
+}
+
+.lightPink:hover{
+    background-color: rgb(252, 45, 79);
 }
 
 .lightBlue{
-    background-color: lightblue;
+    background-color: rgb(149, 211, 231);
+    border-radius: 4rem;
+}
+
+.lightBlue:hover{
+    background-color: rgb(0, 191, 255);
 }
 
 .lightGreen{
-    background-color: lightgreen;
+    background-color: rgb(141, 238, 141);
+    border-radius: 4rem;
+}
+
+.lightGreen:hover{
+    background-color: rgb(0, 255, 0);
 }
 
 .black{
-    background-color: black;
+    background-color: rgb(90, 89, 89);
+    border-radius: 4rem;
+}
+
+.black:hover{
+    background-color: rgb(45, 12, 12)
 }
 
 .add-btn{
     font-size: 3rem;
 }
 
+.add-btn:hover{
+    font-size: 3.5rem
+    
+}
+
+.display-add-function{
+    background-color: aliceblue;
+    /* margin-top: 5rem; */
+    display: none;
+    width: 10rem;
+    font-size: 1rem;
+}
+/* .add-btn:hover .display-add-function{
+    display: block;
+    float:initial
+    align-items: center;
+} */
+
 .delete-btn{
     font-size: 3rem;
 }
 
+.delete-btn:hover{
+    font-size: 3.5rem
+}
 .modal-cont{
     position: absolute;
     top : 35vh;
     left : 60vh;
-    background-color:burlywood;
+    background-color:#F5FF90;
     height: 45vh;
     width: 90vh;
     display: none;
     /* border-color: ; */
-    border: 2px solid black;
+    /* border-style: dashed; */
 }
 
 .textarea-cont{
     outline: none;
     border: none;
     resize: none;
-    background-color:bisque;
+    background-color:#F4D35E;
     height: 100%;
     width: 75%;
     font-size: 4rem;
     padding: 2rem;
+    border-right: 2.5px solid black;
+    /* border-style-right: dashed; */
 }
 
 .priority-color-cont{
@@ -106,7 +155,7 @@ body{
 }
 
 .active{
-    border: 10px solid rgb(246, 222, 222);
+    border: 10px solid rgb(0, 0, 0);
 }
 
 .main-cont{
@@ -123,9 +172,11 @@ body{
 
 .ticket-cont{
 
-    background-color:rgb(242, 243, 156);
+    background-color:#bdf790;
     height: 18rem;
     width: 32rem;
+    border-top-left-radius: 1.25rem;
+    border-top-right-radius: 1.25rem;
 }
 
 .ticket-color{
@@ -134,12 +185,12 @@ body{
 }
 
 .ticket-id{
-    background-color:rgb(242, 243, 156);
+    background-color:#bdf790;
     /* margin-bottom: 0.25rem; */
     height: 1.5rem;
     padding: 0.5rem;
     font-size: 1.25rem;
-    color:red;
+    color:rgb(63, 63, 249);
     font-weight: 600;
     /* underline : true; */
     /* border: 10px; */
