@@ -2,6 +2,8 @@
 
 A jira Task Web Application Clone made using HTML , CSS , JavaScript with the help of Document Object Model.
 
+Deployed Link -> https://chinmay171.github.io/JiraApplication/
+
                                                       Project webPage
                                                        
                                                        
