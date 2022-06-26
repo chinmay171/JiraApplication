@@ -7,7 +7,7 @@ Deployed Link -> https://chinmay171.github.io/JiraApplication/
                                                       Project webPage
                                                        
                                                        
-<img width="960" alt="image" src="https://user-images.githubusercontent.com/72167507/173223542-94175ef9-bc51-4a2c-8ff3-820655fea8f5.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/72167507/175808517-f7464a5d-e509-4278-9cf1-8a7039323271.png">
 
 
                                                        Functionalities ->
@@ -17,13 +17,15 @@ Deployed Link -> https://chinmay171.github.io/JiraApplication/
   Using this you can add new tickets.        
   
   
-<img width="59" alt="image" src="https://user-images.githubusercontent.com/72167507/173223782-7c06391c-64f5-4b8b-a5ae-c135cac3f5c0.png">         
+<img width="57" alt="image" src="https://user-images.githubusercontent.com/72167507/175808534-da0fd44a-34d1-4f44-bef2-64a577687f6a.png">
+        
              
 <!-- <br /> -->
  Once you click Add button this box will pop up where you can add text and choose its colour i.e. priority of that task.
  
  
-<img width="480" alt="image" src="https://user-images.githubusercontent.com/72167507/173223955-d8ec1f01-6b53-4dd0-9327-9dc325ac6209.png">
+<img width="519" alt="image" src="https://user-images.githubusercontent.com/72167507/175808567-2ab1da14-a419-42f3-8726-9c3c0a143e85.png">
+
              
              
  2.) Delete Tickets
@@ -32,13 +34,15 @@ Deployed Link -> https://chinmay171.github.io/JiraApplication/
  Using this you can delete previosly made tickets.
  
  
- <img width="63" alt="image" src="https://user-images.githubusercontent.com/72167507/173223860-f2a9ba8a-926f-40c9-9451-ebfc3ce4e180.png">
+ <img width="64" alt="image" src="https://user-images.githubusercontent.com/72167507/175808587-ed0854aa-05dd-4b56-b560-fe1498174ba4.png">
+
                
                
  Once you click on delete button it will turn RED and then easiily click on ticket to delete it.
  
  
- <img width="65" alt="image" src="https://user-images.githubusercontent.com/72167507/173224732-0d778189-f937-4e8d-ba56-8e23de5f5458.png">
+ <img width="67" alt="image" src="https://user-images.githubusercontent.com/72167507/175808601-8a8030fe-dd7b-4dee-9878-74d12baa0c1b.png">
+
 
 
 
@@ -48,14 +52,15 @@ Deployed Link -> https://chinmay171.github.io/JiraApplication/
 Using this you can get filtered tickets on the basis of there colour i.e. their priorities.
 
 
-<img width="243" alt="image" src="https://user-images.githubusercontent.com/72167507/173223897-c619123d-503c-42bc-bae9-f40c632eba28.png">
+<img width="239" alt="image" src="https://user-images.githubusercontent.com/72167507/175808628-c0b642ba-a494-4e07-8d8d-f6e46e2656a8.png">
+
 
 
 Below is the example if we choose GREEN PRIORITY, as you can see only green prioritised tickets are visilbe.
 By double clicking on the priority button you can get all tickets back.
 
 
-<img width="960" alt="image" src="https://user-images.githubusercontent.com/72167507/173224796-e6ab1e53-edf0-4fba-8e1a-048ea403ef35.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/72167507/175808653-96a46508-74ea-4506-a093-df60f9b79860.png">
 
 
 
@@ -65,18 +70,21 @@ By double clicking on the priority button you can get all tickets back.
    these are some sample tickets with different colour tops i.e. priorities , tasks and one unique ID.
    
    
-   <img width="921" alt="image" src="https://user-images.githubusercontent.com/72167507/173224452-f727c8d7-39b3-4975-a937-aca0ff07847e.png">
+   <img width="946" alt="image" src="https://user-images.githubusercontent.com/72167507/175808693-9ded30db-327d-41c6-9dfb-fa3b11fe37d7.png">
+
 
    5.) Changing Colour top i.e. priority and Task
    
    You can also Change Colour top i.e. priority and Task by clicking colour top and lock/unlock button resptively.
    
-  <img width="211" alt="image" src="https://user-images.githubusercontent.com/72167507/173224897-75e1c7db-a78c-4a1b-ab8e-e28075f97277.png">
+  <img width="214" alt="image" src="https://user-images.githubusercontent.com/72167507/175808711-8398c939-b35b-4cc8-90db-0b916e8bee46.png">
+
   
   We can change priority and task but cannot change ID. As we can see colour priority and task of the ticket is changed but nothing happens to ID.
   
   
-  <img width="211" alt="image" src="https://user-images.githubusercontent.com/72167507/173224974-8c6dc485-d4b3-46a4-804e-f0f6a1cd48f6.png">
+  <img width="216" alt="image" src="https://user-images.githubusercontent.com/72167507/175808725-00d24407-1597-48bd-9146-efffb81ec241.png">
+
 
 
 
